@@ -1,0 +1,8 @@
+  -
+    init_img:  /raid/lurenjie/DDPM_inversion/my_data/00335.jpg
+    source_prompt: a woman, brown short hair, caucasian, sblack long sleeve shirt, white white sweatpants, squatting woman
+
+  -
+    init_img:  /raid/lurenjie/DDPM_inversion/my_data/00336.jpg
+    source_prompt: a woman, blonde ponytail hair, caucasian, standing woman
+

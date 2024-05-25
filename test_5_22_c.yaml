@@ -1,0 +1,10 @@
+  -
+    init_img:  /raid/lurenjie/DDPM_inversion/my_data/00335.jpg
+    control_img:  /raid/lurenjie/MagicDance/TikTok-v4-small/TikTok-v4-densepose-centercrop-resize/pose_map_val_set/00335
+    source_prompt: a woman, brown short hair, caucasian, sblack long sleeve shirt, white white sweatpants, squatting woman
+
+  -
+    init_img:  /raid/lurenjie/DDPM_inversion/my_data/00336.jpg
+    control_img:  /raid/lurenjie/MagicDance/TikTok-v4-small/TikTok-v4-densepose-centercrop-resize/pose_map_val_set/00336
+    source_prompt: a woman, blonde ponytail hair, caucasian, standing woman
+

@@ -1,0 +1,24 @@
+  -
+    init_img:  /raid/lurenjie/DDPM_inversion/my_data/00335.jpg
+    source_prompt: a woman, brown short hair, caucasian, sblack long sleeve shirt, white white sweatpants, squatting woman
+
+  -
+    init_img:  /raid/lurenjie/DDPM_inversion/my_data/00336.jpg
+    source_prompt: a woman, blonde ponytail hair, caucasian, standing woman
+
+  -
+    init_img:  /raid/lurenjie/DDPM_inversion/my_data/00337.jpg
+    source_prompt: a woman, blonde short hair, caucasian, white strapless dress, standing woman
+
+  -
+    init_img:  /raid/lurenjie/DDPM_inversion/my_data/00338.jpg
+    source_prompt: a woman, brown long hair, caucasian, black strapless dress, standing woman
+
+  -
+    init_img:  /raid/lurenjie/DDPM_inversion/my_data/00339.jpg
+    source_prompt: a woman, blonde long hair, caucasian, blue t shirt, blue cut off jeans pants, happy woman
+
+  -
+    init_img:  /raid/lurenjie/DDPM_inversion/my_data/00340.jpg
+    source_prompt: a woman, black long hair, asian, black ray bans sunglasses, white v neck shirt, standing woman
+
